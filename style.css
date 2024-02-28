@@ -1,0 +1,14 @@
+/* styles.css */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#login {
+    margin-top: 20px;
+}
+
+#feeds {
+    margin-top: 20px;
+}
